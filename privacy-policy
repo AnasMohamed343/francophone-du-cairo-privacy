@@ -8,6 +8,7 @@ Information We Collect
 API server may log anonymous request metadata (IP, timestamp) for operational purposes.
 
 We do not collect any personally identifiable information from you.
+This app displays public event data via read-only API calls. No user data is collected or shared. Favorites ids are stored locally on-device.
 
 No login required
 Never sends your data to servers
