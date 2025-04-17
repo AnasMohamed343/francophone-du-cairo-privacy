@@ -1,0 +1,60 @@
+Privacy Policy
+
+
+We take your privacy seriously. To better protect your privacy, we provide this privacy policy notice explaining the way your personal information is collected and used.
+
+Information We Collect
+
+API server may log anonymous request metadata (IP, timestamp) for operational purposes.
+
+We do not collect any personally identifiable information from you.
+
+No login required
+Never sends your data to servers
+Favorites stored only on your device
+
+Information You Provide
+- When you add events or places to favorites, we store this information locally on your device using Hive database.
+
+Automatically Collected Information
+- Our app fetches event, place, and country data from our API servers when you use the app.
+- We may collect anonymous usage statistics to improve our app.
+
+How We Use Your Information
+- To provide and maintain our service
+- To allow you to favorite events and places
+- To improve and optimize our app
+- To provide customer support
+
+Data Storage
+- Your favorites ids are stored locally on your device using Hive database and are not transmitted to our servers, but still had internet connection to view your favorites.
+- API data is cached temporarily to improve performance.
+
+Advertisement and Third Parties
+
+We currently do not serve third-party advertisements within this app. If this changes, the privacy policy will be updated accordingly, and users will be informed in advance.
+
+Links to Third-Party Services
+
+Our app fetches event, place, and country data from our API Wordpress servers when you use the app. We are not responsible for the privacy practices of these external sites. Please review their policies separately.
+
+Device Information:
+
+Device type
+
+Operating system
+
+IP address
+
+Data Safety
+We implement appropriate security measures to protect your information.
+
+Changes To This Privacy Policy
+
+This Privacy Policy is effective as of April 17, 2025, and may be updated from time to time. Material changes will be posted in-app or via email, depending on the nature of the update.
+
+Contact Information
+
+If you have any questions about this Privacy Policy, please contact us:
+
+Email: ceo@go-gogrow.com
